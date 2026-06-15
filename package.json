@@ -1,5 +1,5 @@
 {
-  "name": "@fabizljs/Sockets",
+  "name": "@wickybls/Sockets",
   "type": "module",
   "version": "8.3.9",
   "description": "A WebSockets library for interacting with WhatsApp Web",
@@ -9,7 +9,7 @@
   ],
   "homepage": "https://github.com/WhiskeySockets/Baileys/",
   "repository": {
-    "url": "https://github.com/fabizljs/Sockets"
+    "url": "https://github.com/wickybls/Sockets"
   },
   "license": "MIT",
   "author": "RDevZljs",
